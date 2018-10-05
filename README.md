@@ -1,5 +1,3 @@
-# Demo Web Application for CMPUT 401 Fall 2018
-
 Created by Kalvin Eng
 
 Angus 204.209.76.218
