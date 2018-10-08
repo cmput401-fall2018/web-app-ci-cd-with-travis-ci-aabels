@@ -1,2 +1,3 @@
 def test_ex():
-	assert True
+	assert Truedef test_b():
+    assert False
