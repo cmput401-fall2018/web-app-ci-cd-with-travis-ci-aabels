@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 def test_home():
-    browser = webdriver.Firefox()
+    browser = webdriver.Firefox(executable_path="C:\\gecko_driver\\geckodriver.exe")
     browser.get("http://204.209.76.218:8000/")
     created = browser.find_element_by_id("created")
     contact = browser.find_element_by_id("contact")
