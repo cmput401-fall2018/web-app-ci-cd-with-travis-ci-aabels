@@ -1,4 +1,4 @@
-Django==2.1.2
+Django==2.2.13
 mock==2.0.0
 pbr==5.1.0
 pytz==2018.5
